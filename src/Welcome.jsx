@@ -4,10 +4,10 @@ const Welcome = ({ onLoginClick }) => {
   return (
     <Container maxWidth="sm">
       <Typography variant="h4" gutterBottom>
-        Welcome to Product List
+        Bienvenido a Simple Solutions!
       </Typography>
       <Button variant="contained" color="primary" onClick={onLoginClick}>
-        Login
+        Ingresar
       </Button>
     </Container>
   )
