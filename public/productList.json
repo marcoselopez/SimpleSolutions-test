@@ -1,0 +1,28 @@
+{
+  "response": {
+    "status": 200,
+    "msg": "Listado de productos",
+    "products": [
+      {
+        "id": 1,
+        "name": "Mesa de madera",
+        "price": 1550.65
+      },
+      {
+        "id": 2,
+        "name": "Silla de madera",
+        "price": 435.05
+      },
+      {
+        "id": 3,
+        "name": "Lámpara de pie",
+        "price": 235
+      },
+      {
+        "id": 4,
+        "name": "Banco para exterior",
+        "price": 5680.99
+      }
+    ]
+  }
+}
