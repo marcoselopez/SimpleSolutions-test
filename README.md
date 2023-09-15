@@ -1,4 +1,5 @@
 ## SIMPLE SOLUTIONS - Test Técnico
+- The mini app is deployed on https://marcos-ss-test.netlify.app/
 # HOW TO SETUP
 - Clone the repository
 - Navigate to the root folder of the proyect
