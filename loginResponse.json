@@ -1,0 +1,12 @@
+{
+  "response": {
+    "status": 200,
+    "msg": "Token generado correctamente",
+    "user": {
+      "id": 16082,
+      "username": "johndoe"
+    },
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwidXNlcm5hbWUiOiJqb2huZG9lIiwibWVzc2FnZSI6IkVzdGUgc2VyaWEgZWwgdG9rZW4gZGV2dWVsdG8iLCJpYXQiOjE1MTYyMzkwMjJ9.zMqEHsVBmKGiQFxcrjQuXLfo2WV_ObSi9xpaCFkMWTg",
+    "expiresIn": "2020-09-23T03:59:27.000Z"
+  }
+}
